@@ -1,0 +1,22 @@
+{
+    "name": "ilhamrisky/laravel-timezone-by-city",
+    "description": "Laravel package to get timezone by city",
+    "type": "library",
+    "require": {
+        "nesbot/carbon": "^2.16"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "IlhamriSKY\\GetTimeZoneByCity\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ilham Riski Wibowo",
+            "email": "ilhamriskiwibowo@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
