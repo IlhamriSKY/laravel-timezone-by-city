@@ -1,4 +1,7 @@
 # Laravel Timezone by City
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/ilhamrisky/laravel-timezone-by-city.svg?style=flat-square)](https://packagist.org/packages/ilhamrisky/laravel-timezone-by-city)
+[![MIT Licensed](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
+[![Total Downloads](https://img.shields.io/packagist/dt/ilhamrisky/laravel-timezone-by-city.svg?style=flat-square)](https://packagist.org/packages/ilhamrisky/laravel-timezone-by-city)
 
 ## Introduction
 Laravel Get Timezone by City package provides a simple way to retrieve timezone information for cities around the world. It utilizes Carbon for date and time manipulation. This README will guide you on how to install and use the package in your Laravel project.
